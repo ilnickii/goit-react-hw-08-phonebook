@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/936.8685c309.chunk.css","mappings":"AAAA,mBACI,cACJ,CAEA,sBACI,cACJ,CAEA,uBACI,yBACJ","sources":["pages/Home/Home.module.css"],"sourcesContent":[".title {\n    font-size: 48px;\n}\n\n.titletwo {\n    font-size: 32px;\n}\n\n.titlelink {\n    text-decoration: underline;\n}\n"],"names":[],"sourceRoot":""}
